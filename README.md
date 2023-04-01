@@ -6,6 +6,12 @@ I am a software developer with over 5 years of experience in software developmen
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ya-yura)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+- 🌱 I’m currently learning more about AI and Machine Learning
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Contribute more to Open Source projects
+
+
 ## Work Experience
 
 - **Full-stack Developer** at [XYZ Company](https://example.com/) (2019 - present)
@@ -14,21 +20,15 @@ I am a software developer with over 5 years of experience in software developmen
 
 ## Education
 
-- **Bachelor's Degree** in Computer Science, [NEP University](https://example.com/) (2012 - 2016)
+- Bachelor's Degree, Information Systems Engineer, Kuban State University (KubSU), 1998-2003
+- Lyceum, Control Systems Engineer, Kuban State University of Technology (KubSUT), 1997-1998
+- Yandex Practicum, Python Developer, Nov 2022
 
 ## Skills
 
 - Programming Languages: Python, Java, C++, JavaScript, SQL
 - Web Development: HTML, CSS, React, Node.js, Flask, Django
 - Data Analysis: pandas, NumPy, SciPy, Matplotlib, Scikit-learn
-
-
-## I'm a Python Developer
-
-- 🌱 I’m currently learning more about AI and Machine Learning
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar and drums
 
 ### Skills
 
@@ -51,30 +51,6 @@ I am a software developer with over 5 years of experience in software developmen
 - Python Developer
 - 4 experiences
 
-### Education
-
-- Yandex Practicum
-- 4 experiences
-
-### Endorsements
-
-- Project Management (3)
-- Online Advertising (3)
-- User Interface Design (9)
-- User Experience (7)
-- E-commerce (2)
-- SEO (1)
-- Web Development (5)
-- Agile Methodologies (1)
-- Mobile Applications (4)
-- Training (1)
-- Team motivation (1)
-- Budget (1)
-- start-ups (2)
-- Strategy (1)
-- Management (2)
-- Hotel Management
-
 ### Languages
 
 - English: Basic (Approximately)
@@ -85,8 +61,6 @@ I am a software developer with over 5 years of experience in software developmen
 - Django
 - PostgreSQL
 - Backend development
-
-
 
 ## Contact Me
 

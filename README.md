@@ -26,9 +26,9 @@ I am a software developer with over 5 years of experience in software developmen
 
 ## Skills
 
-- Programming Languages: Python, Java, C++, JavaScript, SQL
-- Web Development: HTML, CSS, React, Node.js, Flask, Django
-- Data Analysis: pandas, NumPy, SciPy, Matplotlib, Scikit-learn
+- Programming Languages: Python, JavaScript, SQL
+- Web Development: HTML, CSS, Node.js, Flask, Django
+- Data Analysis: pandas, NumPy, SciPy, Matplotlib
 
 ### Skills
 

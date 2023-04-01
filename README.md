@@ -26,3 +26,5 @@ I am a software developer with over 5 years of experience in software developmen
 
 - GitHub: [github.com/ya-yura](https://github.com/ya-yura)
 - LinkedIn: [linkedin.com/in/pylev](https://www.linkedin.com/in/pylev/)
+- Telegram: [@RemontUmov](https://t.me/RemontUmov)
+- Email: [sharikov@gmail.com](mailto:sharikov@gmail.com)

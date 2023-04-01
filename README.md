@@ -1,16 +1,28 @@
-### Hi there 👋
+# Yuriy Pylev
 
-<!--
-**ya-yura/ya-yura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a software developer with over 5 years of experience in software development. My profile includes software development in various programming languages including Python, Java, C++, JavaScript, and more. I also have experience in data analysis and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ya-yura)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Work Experience
+
+- **Full-stack Developer** at [XYZ Company](https://example.com/) (2019 - present)
+- **Software Engineer** at [ABC Corporation](https://example.com/) (2017 - 2019)
+- **Junior Developer** at [EFG Inc.](https://example.com/) (2016 - 2017)
+
+## Education
+
+- **Bachelor's Degree** in Computer Science, [NEP University](https://example.com/) (2012 - 2016)
+
+## Skills
+
+- Programming Languages: Python, Java, C++, JavaScript, SQL
+- Web Development: HTML, CSS, React, Node.js, Flask, Django
+- Data Analysis: pandas, NumPy, SciPy, Matplotlib, Scikit-learn
+
+## Contact Me
+
+- GitHub: [github.com/ya-yura](https://github.com/ya-yura)
+- LinkedIn: [linkedin.com/in/pylev](https://www.linkedin.com/in/pylev/)

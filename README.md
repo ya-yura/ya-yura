@@ -2,6 +2,8 @@
 
 ## About Me
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ya-yura)](https://git.io/streak-stats)
+
 I am a software developer with over 5 years of experience in software development. My profile includes software development in various programming languages including Python, Java, C++, JavaScript, and more. I also have experience in data analysis and machine learning.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ya-yura)](https://github.com/ryo-ma/github-profile-trophy)
